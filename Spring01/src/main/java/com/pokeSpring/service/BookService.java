@@ -1,0 +1,5 @@
+package com.pokeSpring.service;
+
+public interface BookService {
+    public void save();
+}
